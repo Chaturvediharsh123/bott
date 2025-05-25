@@ -1,4 +1,4 @@
-# bott
+# bot
 # 🩸 Blood Donation Chatbot (Botpress)
 
 A smart and interactive chatbot built using **Botpress** to help users find and donate blood, check blood availability in banks, and get notifications for urgent needs.
